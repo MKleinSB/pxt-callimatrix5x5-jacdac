@@ -1,6 +1,6 @@
 {
     "name": "pxt-callimatrix5x5-jacdac",
-    "version": "0.1.2",
+    "version": "0.2.0",
     "description": "Softwarejacdac for Callimatrix 5x5",
     "dependencies": {
         "core": "*",
