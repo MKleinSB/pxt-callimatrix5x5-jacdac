@@ -7,7 +7,6 @@
         "jacdac": "github:microsoft/pxt-jacdac#v1.9.26",
         "jacdac-led": "github:microsoft/pxt-jacdac/led#v1.9.26",
         "jacdac-led-server": "github:microsoft/pxt-jacdac/led-server#v1.9.26"
-
     },
     "files": [
         "README.md",
@@ -27,5 +26,5 @@
         "calliopemini",
         "microbit"
     ],
-    "preferredEditor": "blocksprj"
+    "preferredEditor": "tsprj"
 }
